@@ -1,0 +1,2 @@
+python BoneClassification.py
+pause
